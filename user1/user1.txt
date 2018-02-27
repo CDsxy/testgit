@@ -1,2 +1,0 @@
-user1 info
-modify user1's info
